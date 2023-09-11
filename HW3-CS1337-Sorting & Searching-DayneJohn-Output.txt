@@ -1,0 +1,51 @@
+Welcome to the Sort and Search Program!
+
+How many numbers would you like to generate?
+-5
+Sorry that is an invalid number. Please enter a valid number.
+28
+How large do you want the random numbers to be? The random numbers can be no greater than than 20.
+24
+Sorry that is an invalid number. Please enter a valid number that is not greater than 20.
+15
+
+
+Unsorted, Vector 1:
+14|13|8|7|2|4|14|2|12|15|7|4|7|8|2|11|11|6|5|10|3|10|7|8|2|9|9|2|
+Vector Size: 28
+Capacity: 28
+
+
+Sorted, Vector 1:
+2|2|2|2|2|3|4|4|5|6|7|7|7|7|8|8|8|9|9|10|10|11|11|12|13|14|14|15|
+Vector Size: 28
+Capacity: 28
+
+
+Vector 2, sorted using Bubble Sort:
+2|2|2|2|2|3|4|4|5|6|7|7|7|7|8|8|8|9|9|10|10|11|11|12|13|14|14|15|
+Vector Size: 28
+Capacity: 28
+
+
+Enter a number to search for:
+2
+The number 2 was found 5 times in Vector 1.
+
+
+Enter a number to search for:
+18
+The number 18 wasn't found in Vector 1.
+
+
+Enter a number to search for:
+8
+The number 8 was found 3 times in Vector 1.
+
+
+After removing duplicates, here are the numbers in Vector 1:
+2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+Vector Size: 14
+Capacity: 14
+
+That is the end of the Sort and Search program. Hope you had fun! Goodbye!

@@ -1,0 +1,327 @@
+Welcome to the Animal Guessing Game!
+Think of an animal and press enter when you are ready.
+
+Is it a(n) lizard?
+No
+Bummer! What animal were you thinking of?
+Chicken
+What is a yes/no question that I can use to tell the difference between a(n) Chicken and a(n) lizard?
+Does it have feathers?
+For a(n) Chicken, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers? 
+yes
+Is it a(n) Chicken?
+Yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Is it a(n) lizard?
+No
+Bummer! What animal were you thinking of?
+Dog
+What is a yes/no question that I can use to tell the difference between a(n) Dog and a(n) lizard?
+Does it bark?
+For a(n) Dog, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers? 
+No
+Does it bark?
+yes
+Is it a(n) Dog?
+yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+No
+Is it a(n) lizard?
+No
+Bummer! What animal were you thinking of?
+Monkey
+What is a yes/no question that I can use to tell the difference between a(n) Monkey and a(n) lizard?
+Does it like bananas?
+For a(n) Monkey, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+No
+Does it like bananas?
+Yes
+Is it a(n) Monkey?
+Yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+No
+Does it like bananas?
+No
+Is it a(n) lizard?
+Yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+No
+Does it like bananas?
+No
+Is it a(n) lizard?
+NNo
+Invalid answer. Please enter Yes or No. No
+Bummer! What animal were you thinking of?
+elephant
+What is a yes/no question that I can use to tell the difference between a(n) elephant and a(n) lizard?
+Does it have a long trunk?
+For a(n) elephant, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+no
+Does it like bananas?
+No
+Does it have a long trunk?
+Yes
+Is it a(n) elephant?
+yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+no
+Does it bark?
+no
+Does it like bananas?
+No
+Does it have a long trunk?
+no
+Is it a(n) lizard?
+No
+Bummer! What animal were you thinking of?
+duck
+What is a yes/no question that I can use to tell the difference between a(n) duck and a(n) lizard?
+Does it quack?
+For a(n) duck, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+no
+Does it like bananas?
+No
+Does it have a long trunk?
+no
+Does it quack?
+yes
+Is it a(n) duck?
+yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+No
+Does it like bananas?
+No
+Does it have a long trunk?
+No
+Does it quack?
+No
+Is it a(n) lizard?
+No
+Bummer! What animal were you thinking of?
+bear
+What is a yes/no question that I can use to tell the difference between a(n) bear and a(n) lizard?
+Is it a mammal?
+For a(n) bear, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+No
+Does it like bananas?
+No
+Does it have a long trunk?
+No
+Does it quack?
+No
+Is it a mammal?
+yes
+Is it a(n) bear?
+Yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+no
+Does it like bananas?
+no
+Does it have a long trunk?
+no
+Does it quack?
+no
+Is it a mammal?
+Yes
+Is it a(n) bear?
+no
+Bummer! What animal were you thinking of?
+mouse
+What is a yes/no question that I can use to tell the difference between a(n) mouse and a(n) bear?
+Is it a rodent?
+For a(n) mouse, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers?
+No
+Does it bark?
+no
+Does it like bananas?
+no
+Does it have a long trunk?
+no
+Does it quack?
+no
+Is it a mammal?
+Yes
+Is it a rodent?
+Yes
+Is it a(n) mouse?
+Yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+Yes
+Is it a(n) Chicken?
+No
+Bummer! What animal were you thinking of?
+owl
+What is a yes/no question that I can use to tell the difference between a(n) owl and a(n) Chicken?
+Is it nocturnal?
+For a(n) owl, is the answer yes or no?Yes
+Do you want to play again? Yes
+
+Does it have feathers?
+Yes
+Is it nocturnal?
+Yes
+Is it a(n) owl?
+Yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+no
+Does it bark?
+no
+Does it like bananas?
+no
+Does it have a long trunk?
+no
+Does it quack?
+no
+Is it a mammal?
+Yes
+Is it a rodent?
+no
+Is it a(n) bear?
+no
+Bummer! What animal were you thinking of?
+wolf
+What is a yes/no question that I can use to tell the difference between a(n) wolf and a(n) bear?
+Does it hibernate?
+For a(n) wolf, is the answer yes or no?No
+Do you want to play again? Yes
+
+Does it have feathers?
+no
+Does it bark?
+no
+Does it like bananas?
+no
+Does it have a long trunk?
+no
+Does it quack?
+no
+Is it a mammal?
+Yes
+Is it a rodent?
+no
+Does it hibernate?
+Yes
+Is it a(n) bear?
+Yes
+Awesome, I guessed your animal!
+
+Do you want to play again? Yes
+
+Does it have feathers?
+no
+Does it bark?
+no
+Does it like bananas?
+no
+Does it have a long trunk?
+no
+Does it quack?
+no
+Is it a mammal?
+no
+Is it a(n) lizard?
+no
+Bummer! What animal were you thinking of?
+frog
+What is a yes/no question that I can use to tell the difference between a(n) frog and a(n) lizard?
+Is it an amphibian?
+For a(n) frog, is the answer yes or no?yes
+Do you want to play again? Yes
+
+Does it have feathers?
+no
+Does it bark?
+no
+Does it like bananas?
+no
+Does it have a long trunk?
+no
+Does it quack?
+no
+Is it a mammal?
+no
+Is it an amphibian?
+yes
+Is it a(n) frog?
+yes
+Awesome, I guessed your animal!
+
+Do you want to play again? no
+
+Thank you for playing the Animal Guessing Game. Goodbye!

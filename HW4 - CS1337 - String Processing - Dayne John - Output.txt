@@ -1,0 +1,193 @@
+Hello! Welcome to the String Processing Program!
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: This is a test: My dog has fleas.
+Number of characters: 33
+Number of words: 8
+Longest Word: This
+Vowels: 9; Consonants: 15; Spaces: 7; Punctuation Marks: 2; Others: 0.
+Title Case: This Is A Test: My Dog Has Fleas.
+Sentence Case: This is a test: my dog has fleas.
+Sentence Case With Exceptions: This is a test: My dog has fleas.
+Toggle Case: tHIS iS a tEST: mY dOG hAS fLEAS.
+Spongebob Case: tHIs Is A TeSt: my dOg Has FLEas.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Amy asked an aardvark.
+Number of characters: 22
+Number of words: 4
+Longest Word: asked
+Vowels: 8; Consonants: 10; Spaces: 3; Punctuation Marks: 1; Others: 0.
+Title Case: Amy Asked An Aardvark.
+Sentence Case: Amy asked an aardvark.
+Sentence Case With Exceptions: Amy asked an aardvark.
+Toggle Case: aMY aSKED aN aARDVARK.
+Spongebob Case: amy ASkEd An aaRdvarK.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: The rain in Spain stays mainly in the plains.
+Number of characters: 45
+Number of words: 9
+Longest Word: mainly
+Vowels: 15; Consonants: 21; Spaces: 8; Punctuation Marks: 1; Others: 0.
+Title Case: The Rain In Spain Stays Mainly In The Plains.
+Sentence Case: The rain in spain stays mainly in the plains.
+Sentence Case With Exceptions: The rain in Spain stays mainly in the plains.
+Toggle Case: tHE rAIN iN sPAIN sTAYS mAINLY iN tHE pLAINS.
+Spongebob Case: THe rAin in SPAIn STaYS maINLY in THe pLAins.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+Number of characters: 70
+Number of words: 13
+Longest Word: woodchuck
+Vowels: 21; Consonants: 36; Spaces: 12; Punctuation Marks: 1; Others: 0.
+Title Case: How Much Wood Would A Woodchuck Chuck If A Woodchuck Could Chuck Wood?
+Sentence Case: How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+Sentence Case With Exceptions: How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+Toggle Case: hOW mUCH wOOD wOULD a wOODCHUCK cHUCK iF a wOODCHUCK cOULD cHUCK wOOD?
+Spongebob Case: hOw MUch WOoD wOulD a WOoDcHUcK chUCK If a WOODcHuck CouLd CHuck WoOd?
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Suzy sells seashells by the seashore.
+Number of characters: 37
+Number of words: 6
+Longest Word: seashells
+Vowels: 12; Consonants: 19; Spaces: 5; Punctuation Marks: 1; Others: 0.
+Title Case: Suzy Sells Seashells By The Seashore.
+Sentence Case: Suzy sells seashells by the seashore.
+Sentence Case With Exceptions: Suzy sells seashells by the seashore.
+Toggle Case: sUZY sELLS sEASHELLS bY tHE sEASHORE.
+Spongebob Case: Suzy seLLs SEASHElLs BY the sEaSHORE.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Becky's beagle barked and bayed, becoming bothersome for Billy.
+Number of characters: 63
+Number of words: 9
+Longest Word: bothersome
+Vowels: 21; Consonants: 31; Spaces: 8; Punctuation Marks: 3; Others: 0.
+Title Case: Becky's Beagle Barked And Bayed, Becoming Bothersome For Billy.
+Sentence Case: Becky's beagle barked and bayed, becoming bothersome for billy.
+Sentence Case With Exceptions: Becky's beagle barked and bayed, becoming bothersome for billy.
+Toggle Case: bECKY'S bEAGLE bARKED aND bAYED, bECOMING bOTHERSOME fOR bILLY.
+Spongebob Case: BEckY's BEAgLe BArkED and BayEd, BecominG boThErsome FOr BiLLy.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Can you keep the cat from clawing the couch? It's creating chaos.
+Number of characters: 65
+Number of words: 12
+Longest Word: creating
+Vowels: 20; Consonants: 31; Spaces: 11; Punctuation Marks: 3; Others: 0.
+Title Case: Can You Keep The Cat From Clawing The Couch? It's Creating Chaos.
+Sentence Case: Can you keep the cat from clawing the couch? it's creating chaos.
+Sentence Case With Exceptions: Can you keep the cat from clawing the couch? it's creating chaos.
+Toggle Case: cAN yOU kEEP tHE cAT fROM cLAWING tHE cOUCH? iT'S cREATING cHAOS.
+Spongebob Case: cAn you KeeP thE cAT FroM CLaWiNg thE Couch? it'S CREATING cHaoS.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Dan's dog dove deep in the dam, drinking dirty water as he dove.
+Number of characters: 64
+Number of words: 13
+Longest Word: drinking
+Vowels: 19; Consonants: 30; Spaces: 12; Punctuation Marks: 3; Others: 0.
+Title Case: Dan's Dog Dove Deep In The Dam, Drinking Dirty Water As He Dove.
+Sentence Case: Dan's dog dove deep in the dam, drinking dirty water as he dove.
+Sentence Case With Exceptions: Dan's dog dove deep in the dam, drinking dirty water as he dove.
+Toggle Case: dAN'S dOG dOVE dEEP iN tHE dAM, dRINKING dIRTY wATER aS hE dOVE.
+Spongebob Case: DAn's dOg DoVe DEep In THE DAm, dRINKing dirTy WAteR As hE dOVE.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Fred's friends fried Fritos for Friday's food.
+Number of characters: 46
+Number of words: 7
+Longest Word: friends
+Vowels: 13; Consonants: 24; Spaces: 6; Punctuation Marks: 3; Others: 0.
+Title Case: Fred's Friends Fried Fritos For Friday's Food.
+Sentence Case: Fred's friends fried fritos for friday's food.
+Sentence Case With Exceptions: Fred's friends fried Fritos for friday's food.
+Toggle Case: fRED'S fRIENDS fRIED fRITOS fOR fRIDAY'S fOOD.
+Spongebob Case: FReD's fRieNds fRIED friTOs foR fRidaY'S fOOd.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Greedy goats gobbled up gooseberries, getting good at grabbing the goodies.
+Number of characters: 75
+Number of words: 11
+Longest Word: gooseberries
+Vowels: 26; Consonants: 37; Spaces: 10; Punctuation Marks: 2; Others: 0.
+Title Case: Greedy Goats Gobbled Up Gooseberries, Getting Good At Grabbing The Goodies.
+Sentence Case: Greedy goats gobbled up gooseberries, getting good at grabbing the goodies.
+Sentence Case With Exceptions: Greedy goats gobbled up gooseberries, getting good at grabbing the goodies.
+Toggle Case: gREEDY gOATS gOBBLED uP gOOSEBERRIES, gETTING gOOD aT gRABBING tHE gOODIES.
+Spongebob Case: grEeDy GOATS GOBbLed up GOOsEBErrIES, gEtTINg gOod aT grabBiNg The gooDIeS.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Rudolph the red-nosed reindeer rose rapidly into the air.
+Number of characters: 57
+Number of words: 9
+Longest Word: rednosed
+Vowels: 20; Consonants: 27; Spaces: 8; Punctuation Marks: 2; Others: 0.
+Title Case: Rudolph The Red-nosed Reindeer Rose Rapidly Into The Air.
+Sentence Case: Rudolph the red-nosed reindeer rose rapidly into the air.
+Sentence Case With Exceptions: Rudolph the red-nosed reindeer rose rapidly into the air.
+Toggle Case: rUDOLPH tHE rED-NOSED rEINDEER rOSE rAPIDLY iNTO tHE aIR.
+Spongebob Case: RudolpH thE ReD-nOSed rEIndeER rose RaPIdlY inTO tHE AIR.
+
+Press the Enter key to continue...
+---------------------------------------------
+Invalid key pressed.
+Please press the Enter key to continue...
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: Seven sisters slept soundly on the sand.
+Number of characters: 40
+Number of words: 7
+Longest Word: sisters
+Vowels: 11; Consonants: 22; Spaces: 6; Punctuation Marks: 1; Others: 0.
+Title Case: Seven Sisters Slept Soundly On The Sand.
+Sentence Case: Seven sisters slept soundly on the sand.
+Sentence Case With Exceptions: Seven sisters slept soundly on the sand.
+Toggle Case: sEVEN sISTERS sLEPT sOUNDLY oN tHE sAND.
+Spongebob Case: SEveN SiStErs slepT SOUNdLY ON The sand.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: In Hertford, Hereford, and Hampshire, hurricanes hardly ever happen.
+Number of characters: 68
+Number of words: 9
+Longest Word: hurricanes
+Vowels: 20; Consonants: 36; Spaces: 8; Punctuation Marks: 4; Others: 0.
+Title Case: In Hertford, Hereford, And Hampshire, Hurricanes Hardly Ever Happen.
+Sentence Case: In hertford, hereford, and hampshire, hurricanes hardly ever happen.
+Sentence Case With Exceptions: In Hertford, Hereford, and Hampshire, hurricanes hardly ever happen.
+Toggle Case: iN hERTFORD, hEREFORD, aND hAMPSHIRE, hURRICANES hARDLY eVER hAPPEN.
+Spongebob Case: IN hErTFoRd, hEREfOrD, aNd HAMpShire, HUrrIcanEs HArDLy eveR hAPPEn.
+
+Press the Enter key to continue...
+---------------------------------------------
+Original Sentence: It is just a meaningless, repetitive phrase that a linguist, Professor Henry Higgins (in the movie My Fair Lady) used as a mnemonic device to help the learner ("Liza") learn the correct way to pronounce the diphthong "ai," as in "aim" and "main," rather than the Cockney pronunciation of it, which sounds like the "i" in "Rhine" and "spine."
+Number of characters: 341
+Number of words: 59
+Longest Word: pronunciation
+Vowels: 107; Consonants: 152; Spaces: 58; Punctuation Marks: 24; Others: 0.
+Title Case: It Is Just A Meaningless, Repetitive Phrase That A Linguist, Professor Henry Higgins (in The Movie My Fair Lady) Used As A Mnemonic Device To Help The Learner ("liza") Learn The Correct Way To Pronounce The Diphthong "ai," As In "aim" And "main," Rather Than The Cockney Pronunciation Of It, Which Sounds Like The "i" In "rhine" And "spine."
+Sentence Case: It is just a meaningless, repetitive phrase that a linguist, professor henry higgins (in the movie my fair lady) used as a mnemonic device to help the learner ("liza") learn the correct way to pronounce the diphthong "ai," as in "aim" and "main," rather than the cockney pronunciation of it, which sounds like the "i" in "rhine" and "spine."
+Sentence Case With Exceptions: It is just a meaningless, repetitive phrase that a linguist, Professor Henry Higgins (in the movie My Fair Lady) used as a mnemonic device to help the learner ("liza") learn the correct way to pronounce the diphthong "ai," as in "aim" and "main," rather than the Cockney pronunciation of it, which sounds like the "i" in "rhine" and "spine."
+Toggle Case: iT iS jUST a mEANINGLESS, rEPETITIVE pHRASE tHAT a lINGUIST, pROFESSOR hENRY hIGGINS (IN tHE mOVIE mY fAIR lADY) uSED aS a mNEMONIC dEVICE tO hELP tHE lEARNER ("LIZA") lEARN tHE cORRECT wAY tO pRONOUNCE tHE dIPHTHONG "AI," aS iN "AIM" aND "MAIN," rATHER tHAN tHE cOCKNEY pRONUNCIATION oF iT, wHICH sOUNDS lIKE tHE "I" iN "RHINE" aND "SPINE."
+Spongebob Case: iT Is JusT a MEAniNGlESs, rePeTiTIVe pHRasE That A liNgUist, PROfeSsOR HeNRy HIGGINs (in THE mOVIE my fAiR laDY) UsED As A mnemoNiC devICE To hELp The lEaRNeR ("lIzA") leArn tHe corrEct way to pRonOUnCE ThE DipHtHoNG "AI," as IN "AIm" aND "MaIn," rAtHeR ThAn thE CockNEy PRONunCIatioN oF It, whIcH souNdS Like thE "i" iN "RhiNe" aND "SPiNe."
+
+You have reached the end of the file. Goodbye!
+
+Process returned 0 (0x0)   execution time : 12.401 s
+Press any key to continue.
